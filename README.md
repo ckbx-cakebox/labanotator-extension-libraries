@@ -6,6 +6,9 @@ LabaNotator useful extension libraries
 - Staff.lib : vertical lines, measures, bars and ticks.
 - Markers.lib : boxed alphabets, useful for indication of some important measures.
 
+## Extra Symbols
+
+- TurnsEx.lib : extra turn symbols.
 
 
 
